@@ -1,0 +1,1 @@
+Months that begin on a Sunday will always have a `Friday the 13th`.
